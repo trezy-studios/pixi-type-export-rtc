@@ -1,0 +1,12 @@
+{
+  "name": "pixi-type-export-rtc",
+  "version": "0.0.0-development",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "pixi.js": "^8.1.4",
+    "typescript": "^5.4.5"
+  }
+}
